@@ -1,21 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# hello rails react App
+# hello rails Api
 
-Hello rails react app is wep site creat with a connection between a Ruby on rails as back-end and react as font-end
+Hello rails api is an api that display  random greeting
+
+## Front end application
+ [Link to the front end application repository](https://github.com/LionRouge1/hello-react-font-end/tree/font-end)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Copy this link `https://github.com/LionRouge1/Hello-rails-react`.
+- Copy this link `git@github.com:LionRouge1/Hello-world.git`.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
-- Write `https://github.com/LionRouge1/Hello-rails-react`.
-- Go to the repository folder in your command prompt `cd Hello-rails-react`.
+- Write `git@github.com:LionRouge1/Hello-world.git`.
+- Go to the repository folder in your command prompt `cd Hello-world`.
 
 - Follow these steps to run the app:
   - run `gem install`
-  - run `yarn` or `npm install`
-  - run `./bin/dev`
+  - run `rails server`
 
 ## Authors
 
