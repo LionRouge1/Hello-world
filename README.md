@@ -1,24 +1,49 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# hello rails Api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello rails api is an api that display  random greeting
 
-Things you may want to cover:
+## Front end application
+ [Link to the front end application repository](https://github.com/LionRouge1/hello-react-font-end/tree/font-end)
 
-* Ruby version
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* System dependencies
+- Copy this link `git@github.com:LionRouge1/Hello-world.git`.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `git@github.com:LionRouge1/Hello-world.git`.
+- Go to the repository folder in your command prompt `cd Hello-world`.
 
-* Configuration
+- Follow these steps to run the app:
+  - run `gem install`
+  - run `rails db:create`
+  - run `rails db:migrate`
+  - run `rails db:seeds`
+  - run `rails server`
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Matchoudi**
 
-* How to run the test suite
+- GitHub: [@LionRouge1](https://github.com/LionRouge1)
+- Twitter: [@Matchoudi1](https://twitter.com/Matchoudi1)
+- LinkedIn: [matchoudi](https://linkedin.com/in/matchoudi)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
